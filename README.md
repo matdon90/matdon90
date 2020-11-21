@@ -17,8 +17,4 @@ Outside of IT, fan of OCR runs :running_man: and all sports where a board is nee
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=matdon90&theme=graywhite&show_icons=true&hide=stars&count_private=true"></a>
 </p>
 
-<p align="center">
-  ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-</p>
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matdon90&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
