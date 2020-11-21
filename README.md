@@ -34,6 +34,6 @@ Apart from IT, fan of OCR runs :running_man: and all sports where a board is nee
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matdon90&theme=graywhite&layout=compact&exclude_repo=AutomationITExpertsGroupWebsite"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matdon90&theme=graywhite&exclude_repo=AutomationITExpertsGroupWebsite"></a>
 </p>
 
