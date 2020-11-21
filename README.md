@@ -13,9 +13,12 @@ I am .NET developer and personally big enthusiast of .NET technologies all the t
 Outside of IT, fan of OCR runs :running_man: and all sports where a board is needed, such as windsurfing and surfing :surfer: in summer, and snowboarding :snowboarder: in winter.
 </p>
 
-<p align="justify">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matdon90"></a>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=matdon90&theme=graywhite&show_icons=true&hide=stars&count_private=true"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matdon90&theme=graywhite&hide=javascript"></a>
 </p>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matdon90&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
