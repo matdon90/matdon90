@@ -30,10 +30,10 @@ Apart from IT, fan of OCR runs :running_man: and all sports where a board is nee
 
 #### &#x1f4c8; GitHub Stats
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=matdon90&theme=graywhite&show_icons=true&hide=stars&count_private=true"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=matdon90&theme=graywhite&show_icons=true&hide=stars&count_private=true&bg_color=30,ffffff,c0c0c0&title_color=000&text_color=000"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matdon90&theme=graywhite"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matdon90&bg_color=30,ffffff,c0c0c0&title_color=000&text_color=000"></a>
 </p>
 
